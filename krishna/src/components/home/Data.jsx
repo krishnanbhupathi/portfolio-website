@@ -2,7 +2,7 @@ import React from 'react'
 
 const Data = () => {
   return (
-    <div className='home__data'>
+    <div className='home__data typewriter'>
       <h1 className='home__title'>
         Bhupathi Murali Krishna
         <svg
