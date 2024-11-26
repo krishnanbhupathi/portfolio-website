@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolio-website/static/css/main.4c5e6697.css",
+    "main.js": "/portfolio-website/static/js/main.3bcb559f.js",
+    "static/media/profile.png": "/portfolio-website/static/media/profile.15f684c14aee8bca4610.png",
+    "static/media/BHUPATHI_MURALI_KRISHNA_SWE.pdf": "/portfolio-website/static/media/BHUPATHI_MURALI_KRISHNA_SWE.d562930a4850822a8305.pdf",
+    "index.html": "/portfolio-website/index.html",
+    "main.4c5e6697.css.map": "/portfolio-website/static/css/main.4c5e6697.css.map",
+    "main.3bcb559f.js.map": "/portfolio-website/static/js/main.3bcb559f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c5e6697.css",
+    "static/js/main.3bcb559f.js"
+  ]
+}
